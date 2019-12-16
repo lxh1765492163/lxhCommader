@@ -1,0 +1,22 @@
+{
+  "name": "myState",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lxh": "./bin/lxh.js"
+  },
+  "scripts": {
+    "start": "./bin/lxh.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luoxiaohong <1765492163@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^4.0.1"
+  }
+}
